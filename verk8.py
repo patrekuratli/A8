@@ -1,1 +1,2 @@
+print('Hææ')
 print("bæ")
