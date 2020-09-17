@@ -1,3 +1,3 @@
 print('Hææ')
 print("bæ")
-print"afverju virkar þetta ekki?")
+print("afverju virkar þetta ekki?")
